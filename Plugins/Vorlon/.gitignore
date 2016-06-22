@@ -1,0 +1,4 @@
+*.js.map
+*.min.js
+!verge.min.js
+!res.min.js
